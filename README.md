@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @akbekmez
+- 👀 I’m interested in software architecture, integration projects.
+- 💞️ I’m looking to collaborate on open-source projects related to financial technologies.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akbekmez/) or akbekmez@example.com
+- ⚡ Fun fact: I enjoy blending ancient mythology with modern code — leathercraft by hand, coding by night!
