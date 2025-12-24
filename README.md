@@ -25,7 +25,7 @@
 
 ## 📈 GitHub Stats:
 
-![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akbekmez&show_icons=true&theme=radical)
+![Ahmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akbekmez&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbekmez&theme=radical)
 
