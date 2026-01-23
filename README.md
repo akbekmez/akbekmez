@@ -2,7 +2,6 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmet-faik-akbekmez/"><img src="https://img.shields.io/badge/-AhmetFaikAkbekmez-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin"></a>
-<img src="https://img.shields.io/website?url=https%3A%2F%2Fmutfakyazilimevi.com&logo=google-chrome&logoColor=white" alt="Website">
 <img src="https://img.shields.io/badge/Founder-Mutfak%20Yazılım%20Evi-orange?style=flat-square" alt="Founder">
 </p>
 
