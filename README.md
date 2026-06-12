@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Ahmet Faik — Founder & Software Architect" width="100%">
+  <img src="banner.svg" alt="Ahmet Faik — Founder & Software Architect" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Ahmet Faik 👋</h1>
