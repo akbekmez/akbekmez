@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Ahmet Faik — Founder & Software Architect">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF8A00"/>
+      <stop offset="1" stop-color="#FF6B00"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="220" rx="16" fill="url(#bg)"/>
+  <rect width="8" height="220" rx="4" fill="url(#accent)"/>
+
+  <!-- subtle dot grid -->
+  <g fill="#FF6B00" opacity="0.07">
+    <circle cx="760" cy="40" r="3"/><circle cx="800" cy="40" r="3"/><circle cx="840" cy="40" r="3"/>
+    <circle cx="760" cy="80" r="3"/><circle cx="800" cy="80" r="3"/><circle cx="840" cy="80" r="3"/>
+    <circle cx="760" cy="120" r="3"/><circle cx="800" cy="120" r="3"/><circle cx="840" cy="120" r="3"/>
+  </g>
+
+  <text x="44" y="78" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#f0f6fc">Ahmet Faik</text>
+  <text x="46" y="112" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#FF8A00">Founder &amp; Software Architect</text>
+  <text x="46" y="138" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#8b949e">Building scalable .NET systems &amp; AI-agent tooling</text>
+
+  <!-- tech chips -->
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">
+    <g>
+      <rect x="46" y="160" width="86" height="28" rx="14" fill="#1f2733" stroke="#FF6B00" stroke-opacity="0.4"/>
+      <text x="89" y="178.5" fill="#c9d1d9" text-anchor="middle">.NET Core</text>
+    </g>
+    <g>
+      <rect x="142" y="160" width="150" height="28" rx="14" fill="#1f2733" stroke="#FF6B00" stroke-opacity="0.4"/>
+      <text x="217" y="178.5" fill="#c9d1d9" text-anchor="middle">Clean Architecture</text>
+    </g>
+    <g>
+      <rect x="302" y="160" width="62" height="28" rx="14" fill="#1f2733" stroke="#FF6B00" stroke-opacity="0.4"/>
+      <text x="333" y="178.5" fill="#c9d1d9" text-anchor="middle">CQRS</text>
+    </g>
+    <g>
+      <rect x="374" y="160" width="98" height="28" rx="14" fill="#1f2733" stroke="#FF6B00" stroke-opacity="0.4"/>
+      <text x="423" y="178.5" fill="#c9d1d9" text-anchor="middle">AI Agents</text>
+    </g>
+  </g>
+
+  <!-- monogram -->
+  <g transform="translate(792,150)">
+    <circle r="44" fill="#1f2733" stroke="url(#accent)" stroke-width="2.5"/>
+    <text x="0" y="14" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="800" fill="#FF8A00" text-anchor="middle">AF</text>
+  </g>
+</svg>
